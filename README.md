@@ -13,7 +13,7 @@ The purpose of this package is to provide a lightweight, pure Ruby (but fast!) i
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'fast_forward'
+gem 'fast_forward', :git => "git://github.com/sds-dubois/fast_forward.git"
 ```
 
 ## Usage
