@@ -1,0 +1,36 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    backports (3.8.0)
+    coderay (1.1.1)
+    json (2.1.0)
+    method_source (0.8.2)
+    mini_portile2 (2.3.0)
+    nmatrix (0.2.3)
+      packable (~> 1.3, >= 1.3.5)
+    nokogiri (1.8.4)
+      mini_portile2 (~> 2.3.0)
+    packable (1.3.9)
+      backports
+    pry (0.10.4)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    rake (10.4.2)
+    slop (3.6.0)
+    yard (0.9.16)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.16)
+  json (~> 2.0)
+  nmatrix (~> 0.2)
+  nokogiri
+  pry
+  rake (~> 10.0)
+  yard
+
+BUNDLED WITH
+   1.16.4
