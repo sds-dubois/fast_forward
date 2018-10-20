@@ -18,6 +18,8 @@ gem 'fast_forward'
 
 ## Usage
 
+[Online documentation](https://sds-dubois.github.io/fast_forward/index.html)
+
 ### Load from a JSON file
 
 ```ruby
